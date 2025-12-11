@@ -1,0 +1,22 @@
+{
+  "name": "ai-3d-character-maker-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+
+    "@react-three/fiber": "8.15.13",
+    "@react-three/drei": "9.56.17",
+    "three": "0.152.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.0.0",
+    "vite": "4.5.0"
+  }
+}
