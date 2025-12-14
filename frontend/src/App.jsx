@@ -61,7 +61,7 @@ export default function App() {
       <header className="header">
         <h1>AI 3D Character Forge</h1>
         <span style={{ opacity: 0.7, fontSize: "0.9rem" }}>
-          Tripo + OpenAI · by Kylian
+        By Kylian Algoet
         </span>
       </header>
 
